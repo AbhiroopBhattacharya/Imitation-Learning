@@ -1,0 +1,1 @@
+This is a basic implementation of Behaviour cloning for Atari games using the Arcade learning environment(ALE). The algorithm used for training the Reinforcement Learning agent is Deep Q Network(DQN). 
